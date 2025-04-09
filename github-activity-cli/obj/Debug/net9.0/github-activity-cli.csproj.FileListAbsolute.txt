@@ -1,0 +1,15 @@
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/bin/Debug/net9.0/github-activity-cli
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/bin/Debug/net9.0/github-activity-cli.deps.json
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/bin/Debug/net9.0/github-activity-cli.runtimeconfig.json
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/bin/Debug/net9.0/github-activity-cli.dll
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/bin/Debug/net9.0/github-activity-cli.pdb
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/obj/Debug/net9.0/github-activity-cli.GeneratedMSBuildEditorConfig.editorconfig
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/obj/Debug/net9.0/github-activity-cli.AssemblyInfoInputs.cache
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/obj/Debug/net9.0/github-activity-cli.AssemblyInfo.cs
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/obj/Debug/net9.0/github-activity-cli.csproj.CoreCompileInputs.cache
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/obj/Debug/net9.0/github-activity-cli.sourcelink.json
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/obj/Debug/net9.0/github-activity-cli.dll
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/obj/Debug/net9.0/refint/github-activity-cli.dll
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/obj/Debug/net9.0/github-activity-cli.pdb
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/obj/Debug/net9.0/github-activity-cli.genruntimeconfig.cache
+/Users/husseinshamarti/Desktop/Github-User-Activity/github-activity-cli/obj/Debug/net9.0/ref/github-activity-cli.dll
