@@ -36,7 +36,7 @@ Installation:
 
 Clone the repo:
 
-git clone https://github.com/Hussein-Ali-Shamarti/github-activity-cli.git
+git clone [https://github.com/Hussein-Ali-Shamarti/github-activity-cli.git](https://github.com/Hussein-Ali-Shamarti/Github-User-Activity)
 
 Navigate into the project directory:
 
@@ -46,7 +46,7 @@ Build the project:
 
 dotnet build
 
-▶️ Usage
+Usage:
 
 Run the following command:
 
@@ -67,18 +67,6 @@ https://api.github.com/users/<username>/events
 Deserializes the JSON response into simple models (GitHubEvent, Repo)
 
 Loops through the activity and prints the event type and repository involved.
-
-📂 File Structure
-
-github-activity-cli/
-│
-├── Models/
-│ ├── GitHubEvent.cs # Model for GitHub events
-│ └── Repo.cs # Model for repositories
-│
-├── Program.cs # Main CLI logic
-├── github-activity-cli.csproj
-└── README.md # You're reading it :)
 
 Error Handling
 
