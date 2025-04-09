@@ -36,7 +36,7 @@ Installation:
 
 Clone the repo:
 
-git clone [https://github.com/Hussein-Ali-Shamarti/github-activity-cli.git](https://github.com/Hussein-Ali-Shamarti/Github-User-Activity)
+git clone (https://github.com/Hussein-Ali-Shamarti/Github-User-Activity)
 
 Navigate into the project directory:
 
